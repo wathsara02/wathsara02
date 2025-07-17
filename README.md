@@ -3,6 +3,16 @@
 
 - 🔭 I’m currently working on multiplayer Omi game. **OMI**
 
+- 🌱 I’m currently learning **Unity Game Development.**
+
+- 👯 I’m looking to collaborate on **Game development projects and fun side projects.**
+
+- 🤝 I’m looking for help with **efficient backend integration for online games.**
+
+- 💬 Ask me about **COC automation bots, data science with Python, and startup ideas related to gaming or e-commerce.**
+
+- 📫 How to reach me **wathsarakalharasilva@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wathsara-kalhara-686610282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wathsara kalhara" height="30" width="40" /></a>
