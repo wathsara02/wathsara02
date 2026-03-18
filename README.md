@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **multiplayer Omi game**.
-- 🌱 I’m currently learning **Unity Game Development**.
-- 👯 I’m looking to collaborate on **Game development projects and fun side projects**.
-- 🤝 I’m looking for help with **efficient backend integration for online games**.
-- 💬 Ask me about **COC automation bots, data science with Python, and startup ideas related to gaming or e-commerce**.
-- 📫 How to reach me: **wathsarakalharasilva@gmail.com**
+- 🎓 **Data Science Undergraduate** at **Plymouth University** (Expected 2026), combining statistical inference with rigorous mathematical approaches to extract actionable insights.
+- 🔭 Currently building **Intelligent Omi**, a real-time multiplayer card game integrating a **Deep Reinforcement Learning (DRL)** agent and LSTM-based belief state modeling.
+- 🌱 Continuously exploring the intersections of **Applied Machine Learning**, **Computer Vision**, and building robust **End-to-End AI Systems**.
+- 💻 Experienced in building scalable full-stack applications like **Ceylon Compass** (MERN stack) and creating advanced **Real-Time OCR Automation** bots for gaming.
+- 👯 Always looking to collaborate on applied **Machine Learning**, **Data-driven Web Applications**, or innovative AI automation projects.
+- 📫 Reach out to me: **wathsarakalharasilva@gmail.com** | **+94 754 925 406**
 
 ---
 
