@@ -18,7 +18,7 @@
 - 🌱 Continuously exploring the intersections of **Applied Machine Learning**, **Computer Vision**, and building robust **End-to-End AI Systems**.
 - 💻 Experienced in building scalable full-stack applications like **Ceylon Compass** (MERN stack) and creating advanced **Real-Time OCR Automation** bots for gaming.
 - 👯 Always looking to collaborate on applied **Machine Learning**, **Data-driven Web Applications**, or innovative AI automation projects.
-- 📫 Reach out to me: **wathsarakalharasilva@gmail.com** | **+94 754 925 406**
+- 📫 Reach out to me: **wathsarakalharasilva@gmail.com** | **+94 75 492 5406**
 
 ---
 
